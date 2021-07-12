@@ -12,6 +12,7 @@ public class Stacks {
 		stack.push("Borderlands");
 		stack.push("FFVII");
 		
+		// avc
 //		String myFavGame = stack.pop();
 //		System.out.println(stack.peek());
 //		System.out.println(stack);
