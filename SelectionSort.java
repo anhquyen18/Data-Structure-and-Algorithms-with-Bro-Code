@@ -10,7 +10,7 @@ public class SelectionSort {
 	// large data set = BAD
 
 	public static void main(String[] args) {
-		int array[] = { 8, 9, 7, 5, 6, 2, 1, 4, 3 };
+		int array[] = { 8, 9, 7, 5, 6, 2, 1, 4, 3 };	
 
 		selectionSort(array);
 
